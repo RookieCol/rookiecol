@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/RookieCol"><img src="https://api.daily.dev/devcards/9ed639ade09f4c18b050e66f068855a9.png?r=1li" width="400" alt="Juan Diego Agudelo's Dev Card"/></a>
+
 
 <!--
 **RookieCol/rookiecol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
