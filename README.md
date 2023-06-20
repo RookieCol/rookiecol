@@ -4,8 +4,7 @@
 
  ### What I'm doing: 
  
-- 🔭 I’m currently working on Hash Trust, a Blockchain startUp
-- 🌱 I’m currently learning Nodejs, React, Kubernetes and rabitMQ 
+- 🌱 I’m currently working with Nestjs, React, Kubernetes and rabitMQ 
 
 - 📫 How to reach me: juand.agudelom@utadeo.edu.co
 
