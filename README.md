@@ -12,7 +12,7 @@ I transitioned into tech from a background in IoT and sales, and since then, I�
 - **Backend:** NestJS · RabbitMQ · PostgreSQL · GraphQL · Microservices · Monorepos  
 - **Frontend:** React · Next.js · Wagmi · Thirdweb SDK · TailwindCSS  
 - **Blockchain:** Solidity · ERC-20/721/1155 · Tokenization · LayerZero (OFT) · Hyperlane · CELO · Polygon  
-- **DevOps:** Docker · Kubernetes · GitHub Actions · AWS ECS/RDS  
+- **DevOps:** Docker · GitHub Actions · AWS ECS/RDS · Lambda
 - **Tooling:** CLI development · FastAPI scrapers · Git · Viem · Hardhat  
 
 ---
