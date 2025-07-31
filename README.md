@@ -19,7 +19,7 @@ I transitioned into tech from a background in IoT and sales, and since then, Iâ€
 
 ### ðŸŒ± Currently learning & building:
 - Cross-chain and L2 solutions (LayerZero, Axelar, CCIP)
-- Tokenized systems for real-world assets (ERC3643 -
+- Tokenized systems for real-world assets (ERC3643 - EIP-7493)
 - Improving my solidity level 
 
 
