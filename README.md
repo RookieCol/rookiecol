@@ -24,8 +24,6 @@ I transitioned into tech from a background in IoT and sales, and since then, I�
 
 
 ### 📫 Reach Me:
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/juandiegoagudelom)  
-[![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg)](https://twitter.com/ROOKIESNIFFER)  
 📧 rookiecol@proton.me
 
 ---
