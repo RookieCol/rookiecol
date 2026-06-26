@@ -7,16 +7,17 @@
 
 ---
 
-### About Me
+### 🧠 About Me
 
-I'm a full-stack and cross-chain engineer with a background in Industrial Engineering and 4+ years building production systems across Web2 and Web3. I currently work as a **Technical Solutions Engineer at [deBridge](https://debridge.com)**, where I handle incident coordination, partner integrations, escalation management, and protocol tooling, living in the day-to-day of how cross chain infrastructure runs in production.
+I'm a full-stack and cross-chain engineer with a background in Industrial Engineering and 4+ years building production systems across Web2 and Web3. I currently work as a **Technical Solutions Engineer at [deBridge](https://debridge.com)**, where I handle incident coordination, partner integrations, escalation management, and protocol tooling — living in the day-to-day of how cross-chain infrastructure runs in production.
 
-I build backend systems with **NestJS**, microservices, and event-driven architectures, and work across **on-chain vaults, stablecoins, and RWA tokenization**. Alongside that, I'm the creator of **[Crux](https://granpared.com)** — a management platform for climbing gyms, and I've gone deep into **AI agents and LLM tooling**, applying the same engineering rigor to AI that I bring to cross chain.
+I build backend systems with **NestJS**, microservices, and event-driven architectures, and work across **on-chain vaults, stablecoins, and RWA tokenization**. Alongside that, I'm the creator of **[Crux](https://granpared.com)** — a management platform for climbing gyms — and I've gone deep into **AI agents and LLM tooling**, applying the same engineering rigor to AI that I bring to cross-chain.
 
+> Contributed to open-source · Won Web3 hackathons · Shipped production systems on AWS
 
 ---
 
-### Tech Stack
+### 🚀 Tech Stack
 
 **Cross-Chain**
 
@@ -74,7 +75,7 @@ I build backend systems with **NestJS**, microservices, and event-driven archite
 
 ---
 
-### Currently Building
+### 🌱 Currently Building
 
 - **[Crux](https://granpared.com)** — climbing gym management platform · `Next.js` · `Supabase`
 - Intent-based integrations with the **deBridge** stack
@@ -82,4 +83,17 @@ I build backend systems with **NestJS**, microservices, and event-driven archite
 - AI-assisted incident response & observability · OpenTelemetry-based SRE agents
 
 ---
+
+### 🏆 Hackathons
+
+- 🥇 **GreenGate** — *Hackathon Web3 Colombia 2023* · 1st overall + 3 tracks (Arbitrum · CeLatam DAO · Refi Medellín)
+- 🥈 **Unknown Finance** — *ETHGlobal Circuit Breaker 2024* · Scroll "Best ZK Usage" Runner-Up
+- 🥉 **NFlightT** — *Solana HACK SERIES Bogotá 2024* · 3rd place
+
+---
+
+<div align="center">
+
+*Thanks for stopping by — feel free to connect or reach out* 👇
+
 </div>
