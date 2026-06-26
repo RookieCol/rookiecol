@@ -7,7 +7,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 I'm a full-stack and cross-chain engineer with a background in Industrial Engineering and 4+ years building production systems across Web2 and Web3. I currently work as a **Technical Solutions Engineer at [deBridge](https://debridge.com)**, where I handle incident coordination, partner integrations, escalation management, and protocol tooling — living in the day-to-day of how cross-chain infrastructure runs in production.
 
@@ -17,7 +17,7 @@ I build backend systems with **NestJS**, microservices, and event-driven archite
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 
 **Cross-Chain**
 
@@ -75,7 +75,7 @@ I build backend systems with **NestJS**, microservices, and event-driven archite
 
 ---
 
-### 🌱 Currently Building
+### Currently Building
 
 - **[Crux](https://granpared.com)** — climbing gym management platform · `Next.js` · `Supabase`
 - Intent-based integrations with the **deBridge** stack
@@ -94,6 +94,6 @@ I build backend systems with **NestJS**, microservices, and event-driven archite
 
 <div align="center">
 
-*Thanks for stopping by — feel free to connect or reach out* 👇
+*Thanks for stopping by — feel free to connect or reach out* 
 
 </div>
