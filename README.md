@@ -1,31 +1,85 @@
-## 👋 Hi there, I'm Juan  
-#### Full Stack & Blockchain Developer | Web3 Builder | Tokenization Enthusiast
+<div align="center">
 
-### 🧠 About Me  
-I'm a full-stack developer with a background in Industrial Engineering and 3+ years of experience building scalable systems across Web2 and Web3. I specialize in backend development with **NestJS**, **microservices**, and **event-driven architectures**, and I’m passionate about creating seamless developer and user experiences on the blockchain.
+[![Portfolio](https://img.shields.io/badge/Crux-granpared.com-26d0ce?style=for-the-badge&logoColor=white)](https://granpared.com)
+[![Email](https://img.shields.io/badge/Email-rookiecol@proton.me-8b5cf6?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:rookiecol@proton.me)
 
-I transitioned into tech from a background in IoT and sales, and since then, I’ve worked on innovative solutions involving **tokenized assets**, **cross-chain interoperability**, and **developer tooling**. I've contributed to multiple open-source projects, participated in and won Web3 hackathons, and built systems deployed on **AWS (ECS + RDS)** using modern DevOps workflows.
-
----
-
-### 🚀 What I'm working with:
-- **Backend:** NestJS · RabbitMQ · PostgreSQL · GraphQL · Microservices · Monorepos  
-- **Frontend:** React · Next.js · Wagmi · Thirdweb SDK · TailwindCSS  
-- **Blockchain:** Solidity · ERC-20/721/1155 · Tokenization · LayerZero (OFT) · Hyperlane · CELO · Polygon  
-- **DevOps:** Docker · GitHub Actions · AWS ECS/RDS · Lambda
-- **Tooling:** CLI development · FastAPI scrapers · Git · Viem · Hardhat  
+</div>
 
 ---
 
-### 🌱 Currently learning & building:
-- Cross-chain and L2 solutions (LayerZero, Axelar, CCIP)
-- Tokenized systems for real-world assets (ERC3643 - EIP-7493)
-- Improving my solidity level 
+### About Me
 
+I'm a full-stack and cross-chain engineer with a background in Industrial Engineering and 4+ years building production systems across Web2 and Web3. I currently work as a **Technical Solutions Engineer at [deBridge](https://debridge.com)**, where I handle incident coordination, partner integrations, escalation management, and protocol tooling, living in the day-to-day of how cross chain infrastructure runs in production.
 
-### 📫 Reach Me:
-📧 rookiecol@proton.me
+I build backend systems with **NestJS**, microservices, and event-driven architectures, and work across **on-chain vaults, stablecoins, and RWA tokenization**. Alongside that, I'm the creator of **[Crux](https://granpared.com)** — a management platform for climbing gyms, and I've gone deep into **AI agents and LLM tooling**, applying the same engineering rigor to AI that I bring to cross chain.
+
 
 ---
 
-Thanks for stopping by! Feel free to connect or reach out 👇
+### Tech Stack
+
+**Cross-Chain**
+
+![deBridge](https://img.shields.io/badge/deBridge-DLN-26d0ce?style=flat-square)
+![Intent-Based](https://img.shields.io/badge/Intent--Based_Execution-1a2980?style=flat-square)
+![Messaging](https://img.shields.io/badge/Cross--Chain_Messaging-2d3748?style=flat-square)
+
+**Backend**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Wagmi](https://img.shields.io/badge/Wagmi-1C1B1B?style=flat-square&logo=web3dotjs&logoColor=white)
+![Viem](https://img.shields.io/badge/Viem-6952EC?style=flat-square)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Blockchain**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Vaults](https://img.shields.io/badge/Vaults-2d3748?style=flat-square)
+![Stablecoins](https://img.shields.io/badge/Stablecoins-26A17B?style=flat-square)
+![RWA](https://img.shields.io/badge/RWA_Tokenization-Brickken_%C2%B7_ERC--7943-8b5cf6?style=flat-square)
+
+**AI**
+
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8b5cf6?style=flat-square)
+
+**Reliability & Ops**
+
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
+![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=flat-square&logo=pagerduty&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![AI SRE](https://img.shields.io/badge/AI--Driven_Incident_Response-1a2980?style=flat-square)
+
+**DevOps & Infra**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+---
+
+### Currently Building
+
+- **[Crux](https://granpared.com)** — climbing gym management platform · `Next.js` · `Supabase`
+- Intent-based integrations with the **deBridge** stack
+- AI agents & LLM tooling · `MCP` · `LangChain` · `LlamaIndex`
+- AI-assisted incident response & observability · OpenTelemetry-based SRE agents
+
+---
+</div>
