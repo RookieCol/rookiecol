@@ -1,11 +1,7 @@
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Crux-granpared.com-26d0ce?style=for-the-badge&logoColor=white)](https://granpared.com)
-[![Email](https://img.shields.io/badge/Email-rookiecol@proton.me-8b5cf6?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:rookiecol@proton.me)
 
 </div>
 
----
+
 
 ### About Me
 
