@@ -9,11 +9,13 @@
 
 ### About Me
 
-I'm a full-stack and cross-chain engineer with a background in Industrial Engineering and 4+ years building production systems across Web2 and Web3. I currently work as a **Technical Solutions Engineer at [deBridge](https://debridge.com)**, where I handle incident coordination, partner integrations, escalation management, and protocol tooling — living in the day-to-day of how cross-chain infrastructure runs in production.
+I started in Industrial Engineering and somewhere along the way fell for code. Four years later I'm a full-stack and cross-chain engineer who's just as comfortable writing a Solidity contract as I am keeping the distributed services around it alive in production.
+ 
+These days I'm a **Technical Solutions Engineer at [deBridge](https://debridge.com)**, which means I live where cross-chain infrastructure meets reality: tracing failed transactions, coordinating incidents, getting partners integrated, and building the tooling that makes all of it smoother. On the backend I lean on **NestJS** and event-driven architectures, and most of my contract work sits around **vaults, stablecoins, and RWA tokenization**.
+ 
+When I'm not doing that, I'm building **[Crux](https://granpared.com)**, my own platform for managing climbing gyms, and going deep on **AI agents and LLM tooling**, bringing the same engineering rigor to AI that I bring to everything else.
 
-I build backend systems with **NestJS**, microservices, and event-driven architectures, and work across **on-chain vaults, stablecoins, and RWA tokenization**. Alongside that, I'm the creator of **[Crux](https://granpared.com)** — a management platform for climbing gyms — and I've gone deep into **AI agents and LLM tooling**, applying the same engineering rigor to AI that I bring to cross-chain.
 
-> Contributed to open-source · Won Web3 hackathons · Shipped production systems on AWS
 
 ---
 
